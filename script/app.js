@@ -1,4 +1,4 @@
-console.log('Scripts loaded!');
+console.log('Script loaded!');
 
 // Remember to inspect in Chrome, and click onto console to see errors!
 
